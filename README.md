@@ -1,4 +1,5 @@
 Compte rendu : Prédiction de prix avec RandomForestRegressor
+![mon image](https://github.com/user-attachments/assets/08c3e95a-6af9-4d7d-9498-daebb0c47dc3)
 
 1. Objectif du projet
 Ce projet a pour objectif de prédire le prix des maisons en fonction de leurs caractéristiques, telles que la superficie, le nombre de chambres, l’emplacement ou l’année de construction. L’idée est de fournir des estimations fiables pour aider les acheteurs et les vendeurs à prendre de meilleures décisions sur le marché immobilier.
@@ -47,6 +48,25 @@ R
 L’erreur moyenne (MAE) est faible, ce qui montre que les prédictions sont proches des valeurs réelles.
 
 Un graphique comparant les prix réels et les prix prédits montre que la majorité des prédictions se situent très près de la diagonale idéale, confirmant la performance du modèle.
+
+<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/cf522aa7-0421-4173-ab79-a07bf76ddb40" />
+<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/e21906b9-4da0-465b-a53d-a244221ec469" />
+<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/8905815f-92a5-4f4d-a16d-3d8e096ff6b7" />
+<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/c9cd823d-02e3-4a57-8228-a09ccf1a0f4b" />
+<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/564a6ff0-11b0-4ad4-a529-3923be9dbcb6" />
+<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/fa3eeeb9-4d78-41c8-8cdf-d4bd1180c6d3" />
+<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/17eb4de1-4344-4d5d-be67-123ad7131286" />
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/1bd4413c-a4d4-4798-87d6-e21840e57704" />
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/28eedee6-28c7-4454-ab71-f4eebaf0341c" />
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/346dbc2d-f642-443c-83b7-398347eb03d2" />
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/8ac13d65-64ea-4e21-a031-38e55a769df7" />
+
+<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/d5f91954-005a-4ecb-9fd6-edf124cb2bcf" />
+<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/85099ad9-c3c2-4d87-bc3b-2829c52e2203" />
+
+En conclusion la méthode de RandomForestRegression() permet de vraiment bien prédire le prix d'une maison avec de bonne certitude
+
+
 
 6. Conclusion
 En conclusion, le RandomForestRegressor s’avère être un outil efficace pour la prédiction des prix des maisons. Il fournit des résultats fiables et précis, démontrant l’utilité du machine learning pour la prise de décision dans des situations pratiques, comme le marché immobilier.
