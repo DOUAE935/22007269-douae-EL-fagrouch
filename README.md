@@ -54,12 +54,7 @@ Un graphique comparant les prix réels et les prix prédits montre que la majori
 <img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/8905815f-92a5-4f4d-a16d-3d8e096ff6b7" />
 <img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/c9cd823d-02e3-4a57-8228-a09ccf1a0f4b" />
 <img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/564a6ff0-11b0-4ad4-a529-3923be9dbcb6" />
-<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/fa3eeeb9-4d78-41c8-8cdf-d4bd1180c6d3" />
-<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/17eb4de1-4344-4d5d-be67-123ad7131286" />
-<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/1bd4413c-a4d4-4798-87d6-e21840e57704" />
-<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/28eedee6-28c7-4454-ab71-f4eebaf0341c" />
-<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/346dbc2d-f642-443c-83b7-398347eb03d2" />
-<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/8ac13d65-64ea-4e21-a031-38e55a769df7" />
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/8ac13d65-64ea-4e21-a031-
 
 <img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/d5f91954-005a-4ecb-9fd6-edf124cb2bcf" />
 <img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/85099ad9-c3c2-4d87-bc3b-2829c52e2203" />
