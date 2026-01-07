@@ -50,9 +50,6 @@ L’erreur moyenne (MAE) est faible, ce qui montre que les prédictions sont pro
 Un graphique comparant les prix réels et les prix prédits montre que la majorité des prédictions se situent très près de la diagonale idéale, confirmant la performance du modèle.
 
 <img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/cf522aa7-0421-4173-ab79-a07bf76ddb40" />
-<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/e21906b9-4da0-465b-a53d-a244221ec469" />
-<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/8905815f-92a5-4f4d-a16d-3d8e096ff6b7" />
-<img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/c9cd823d-02e3-4a57-8228-a09ccf1a0f4b" />
 
 
 En conclusion la méthode de RandomForestRegression() permet de vraiment bien prédire le prix d'une maison avec de bonne certitude
