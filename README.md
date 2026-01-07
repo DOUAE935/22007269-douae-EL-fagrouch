@@ -52,7 +52,9 @@ Un graphique comparant les prix réels et les prix prédits montre que la majori
 <img width="870" height="5437" alt="image" src="https://github.com/user-attachments/assets/cf522aa7-0421-4173-ab79-a07bf76ddb40" />
 
 
-En conclusion la méthode de RandomForestRegression() permet de vraiment bien prédire le prix d'une maison avec de bonne certitude
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/9ec75639-3dce-487b-aa23-da53ef77aaff" />
+
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/8ec8ba86-7e5f-4131-8640-843269ef54b1" />
 
 
 
